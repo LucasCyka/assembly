@@ -1,0 +1,18 @@
+Info: #include Data/filesystem/programs/line-path/includes/keyb.asm succesfully added.
+Info: #include Data/filesystem/programs/line-path/includes/data.asm succesfully added.
+Info: Found 150 lines to compile.
+Info: Found new label .Repeat at line 14: .Repeat
+Info: Found new label .InputUpdate at line 26: .InputUpdate
+Info: Found new label .InputKeyPressed at line 45: .InputKeyPressed
+Info: Found new label .input_keyDown_current at line 60: .input_keyDown_current
+Info: Found new label .input_keyDown_previous at line 65: .input_keyDown_previous
+Info: Found new label .input_keyDown at line 74: .input_keyDown              
+Info: Found new label .input_keyDown_next at line 78: .input_keyDown_next
+Info: Found new label .input_keyDown_true at line 90: .input_keyDown_true
+Info: Found new label .input_keyUp at line 99: .input_keyUp
+Info: Found new label .input_keyUp_true at line 106: .input_keyUp_true
+Info: Found new label .input_keyUp_previous at line 110: .input_keyUp_previous
+Info: Found new label .input_CSB at line 116: .input_CSB      ; current state buffer
+Info: Found new label .input_PSB at line 119: .input_PSB      ; previous state buffer
+Info: Found new label .Points at line 123: .Points
+Info: Total program length is 401 bytes out of which 233 bytes represent actual code and 168 bytes represent #DB data.

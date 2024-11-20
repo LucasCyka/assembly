@@ -1,0 +1,21 @@
+Info: Found 89 lines to compile.
+Info: Found new label .ScreenW at line 5: .ScreenW
+Info: Found new label .ScreenH at line 8: .ScreenH
+Info: Found new label .Point1X at line 13: .Point1X
+Info: Found new label .Point1Y at line 16: .Point1Y
+Info: Found new label .Point1Z at line 19: .Point1Z
+Info: Found new label .Point2X at line 22: .Point2X
+Info: Found new label .Point2Y at line 25: .Point2Y
+Info: Found new label .Point2Z at line 28: .Point2Z
+Info: Found new label .Point3X at line 31: .Point3X
+Info: Found new label .Point3Y at line 34: .Point3Y
+Info: Found new label .Point3Z at line 37: .Point3Z
+Info: Found new label .CameraZ at line 41: .CameraZ
+Info: Found new label .Start at line 57: .Start
+Info: Found new label .Loop at line 62: .Loop
+Info: Found new label .Project3DPoints at line 68: .Project3DPoints
+Info: Found new label .ApplyPerspective at line 74: .ApplyPerspective
+Info: Found new label .ClearScreen at line 81: .ClearScreen
+Warning: Unknown mnemonic Texture: found at line 46.
+Warning: Unknown argument format Texture:  at line 46. Found this: 'Texture:'
+Info: Total program length is 140 bytes out of which 63 bytes represent actual code and 77 bytes represent #DB data.

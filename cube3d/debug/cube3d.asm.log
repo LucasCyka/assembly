@@ -1,0 +1,37 @@
+Info: #include Data/filesystem/programs/cube3d/../../lib/c93-keyboard.asm succesfully added.
+Info: Found 595 lines to compile.
+Info: Found new label .Repeat at line 13: .Repeat
+Info: Found new label .ComputeCube at line 32: .ComputeCube
+Info: Found new label .Exit at line 310: .Exit
+Info: Found new label .GetVX at line 315: .GetVX
+Info: Found new label .GetVY at line 327: .GetVY
+Info: Found new label .DrawCubeLine at line 338: .DrawCubeLine
+Info: Found new label .InitCube at line 347: .InitCube
+Info: Found new label .IncrementXYZOffsets at line 396: .IncrementXYZOffsets
+Info: Found new label .X at line 403: .X
+Info: Found new label .Y at line 407: .Y
+Info: Found new label .Z at line 411: .Z
+Info: Found new label .vX at line 415: .vX
+Info: Found new label .vY at line 419: .vY
+Info: Found new label .InputUpdate at line 434: .InputUpdate
+Info: Found new label .InputKeyPressed at line 453: .InputKeyPressed
+Info: Found new label .input_keyPressed_true at line 470: .input_keyPressed_true
+Info: Found new label .InputKeyReleased at line 477: .InputKeyReleased
+Info: Found new label .input_keyReleased_true at line 492: .input_keyReleased_true
+Info: Found new label .InputNoStateChange at line 500: .InputNoStateChange
+Info: Found new label .input_no_state_change_loop at line 506: .input_no_state_change_loop
+Info: Found new label .input_no_state_change_false at line 515: .input_no_state_change_false
+Info: Found new label .input_no_state_changed_true at line 520: .input_no_state_changed_true
+Info: Found new label .input_keyDown at line 528: .input_keyDown              
+Info: Found new label .input_keyDown_next at line 532: .input_keyDown_next
+Info: Found new label .input_keyDown_true at line 544: .input_keyDown_true
+Info: Found new label .input_keyUp at line 553: .input_keyUp
+Info: Found new label .input_keyUp_true at line 560: .input_keyUp_true
+Info: Found new label .input_keyDown_current at line 564: .input_keyDown_current
+Info: Found new label .input_keyDown_previous at line 569: .input_keyDown_previous
+Info: Found new label .input_keyUp_current at line 574: .input_keyUp_current
+Info: Found new label .input_keyUp_previous at line 579: .input_keyUp_previous
+Info: Found new label .input_CSB at line 586: .input_CSB      ; current state buffer
+Info: Found new label .input_PSB at line 589: .input_PSB      ; previous state buffer
+Info: Found new label .input_timings at line 592: .input_timings  ; milliseconds pressed (for future implementation)
+Info: Total program length is 1756 bytes out of which 1416 bytes represent actual code and 340 bytes represent #DB data.

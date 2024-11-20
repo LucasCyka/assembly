@@ -1,0 +1,28 @@
+Info: #include Data/filesystem/programs/palette-shift/../../lib/c93-keyboard.asm succesfully added.
+Info: Found 204 lines to compile.
+Info: Found new label .Repeat at line 8: .Repeat
+Info: Found new label .ShiftPalette at line 17: .ShiftPalette
+Info: Found new label .exit at line 25: .exit
+Info: Found new label .VideoAddress at line 28: .VideoAddress
+Info: Found new label .InputUpdate at line 43: .InputUpdate
+Info: Found new label .InputKeyPressed at line 62: .InputKeyPressed
+Info: Found new label .input_keyPressed_true at line 79: .input_keyPressed_true
+Info: Found new label .InputKeyReleased at line 86: .InputKeyReleased
+Info: Found new label .input_keyReleased_true at line 101: .input_keyReleased_true
+Info: Found new label .InputNoStateChange at line 109: .InputNoStateChange
+Info: Found new label .input_no_state_change_loop at line 115: .input_no_state_change_loop
+Info: Found new label .input_no_state_change_false at line 124: .input_no_state_change_false
+Info: Found new label .input_no_state_changed_true at line 129: .input_no_state_changed_true
+Info: Found new label .input_keyDown at line 137: .input_keyDown              
+Info: Found new label .input_keyDown_next at line 141: .input_keyDown_next
+Info: Found new label .input_keyDown_true at line 153: .input_keyDown_true
+Info: Found new label .input_keyUp at line 162: .input_keyUp
+Info: Found new label .input_keyUp_true at line 169: .input_keyUp_true
+Info: Found new label .input_keyDown_current at line 173: .input_keyDown_current
+Info: Found new label .input_keyDown_previous at line 178: .input_keyDown_previous
+Info: Found new label .input_keyUp_current at line 183: .input_keyUp_current
+Info: Found new label .input_keyUp_previous at line 188: .input_keyUp_previous
+Info: Found new label .input_CSB at line 195: .input_CSB      ; current state buffer
+Info: Found new label .input_PSB at line 198: .input_PSB      ; previous state buffer
+Info: Found new label .input_timings at line 201: .input_timings  ; milliseconds pressed (for future implementation)
+Info: Total program length is 505 bytes out of which 374 bytes represent actual code and 131 bytes represent #DB data.

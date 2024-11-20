@@ -1,0 +1,28 @@
+Info: #include Data/filesystem/programs/mouse-cursor/../../lib/c93-keyboard.asm succesfully added.
+Info: Found 258 lines to compile.
+Info: Found new label .Restart at line 5: .Restart
+Info: Found new label .FoundDifferentXY at line 46: .FoundDifferentXY
+Info: Found new label .exit at line 67: .exit
+Info: Found new label .GfxData at line 71: .GfxData	; The icon (1 byte per pixel, 7px x 12px icon)
+Info: Found new label .InputUpdate at line 97: .InputUpdate
+Info: Found new label .InputKeyPressed at line 116: .InputKeyPressed
+Info: Found new label .input_keyPressed_true at line 133: .input_keyPressed_true
+Info: Found new label .InputKeyReleased at line 140: .InputKeyReleased
+Info: Found new label .input_keyReleased_true at line 155: .input_keyReleased_true
+Info: Found new label .InputNoStateChange at line 163: .InputNoStateChange
+Info: Found new label .input_no_state_change_loop at line 169: .input_no_state_change_loop
+Info: Found new label .input_no_state_change_false at line 178: .input_no_state_change_false
+Info: Found new label .input_no_state_changed_true at line 183: .input_no_state_changed_true
+Info: Found new label .input_keyDown at line 191: .input_keyDown              
+Info: Found new label .input_keyDown_next at line 195: .input_keyDown_next
+Info: Found new label .input_keyDown_true at line 207: .input_keyDown_true
+Info: Found new label .input_keyUp at line 216: .input_keyUp
+Info: Found new label .input_keyUp_true at line 223: .input_keyUp_true
+Info: Found new label .input_keyDown_current at line 227: .input_keyDown_current
+Info: Found new label .input_keyDown_previous at line 232: .input_keyDown_previous
+Info: Found new label .input_keyUp_current at line 237: .input_keyUp_current
+Info: Found new label .input_keyUp_previous at line 242: .input_keyUp_previous
+Info: Found new label .input_CSB at line 249: .input_CSB      ; current state buffer
+Info: Found new label .input_PSB at line 252: .input_PSB      ; previous state buffer
+Info: Found new label .input_timings at line 255: .input_timings  ; milliseconds pressed (for future implementation)
+Info: Total program length is 655 bytes out of which 443 bytes represent actual code and 212 bytes represent #DB data.

@@ -1,0 +1,46 @@
+Info: #include Data/filesystem/programs/mouse-test/../../lib/c93-keyboard.asm succesfully added.
+Info: #include Data/filesystem/programs/mouse-test/../../lib/c93-palettes.asm succesfully added.
+Info: #include Data/filesystem/programs/mouse-test/includes/video.asm succesfully added.
+Info: Found 329 lines to compile.
+Info: Found new label .Loop at line 7: .Loop
+Info: Found new label .no_key_input at line 18: .no_key_input
+Info: Found new label .exit at line 21: .exit
+Info: Found new label .InputUpdate at line 36: .InputUpdate
+Info: Found new label .InputKeyPressed at line 55: .InputKeyPressed
+Info: Found new label .input_keyPressed_true at line 72: .input_keyPressed_true
+Info: Found new label .InputKeyReleased at line 79: .InputKeyReleased
+Info: Found new label .input_keyReleased_true at line 94: .input_keyReleased_true
+Info: Found new label .InputNoStateChange at line 102: .InputNoStateChange
+Info: Found new label .input_no_state_change_loop at line 108: .input_no_state_change_loop
+Info: Found new label .input_no_state_change_false at line 117: .input_no_state_change_false
+Info: Found new label .input_no_state_changed_true at line 122: .input_no_state_changed_true
+Info: Found new label .input_keyDown at line 130: .input_keyDown              
+Info: Found new label .input_keyDown_next at line 134: .input_keyDown_next
+Info: Found new label .input_keyDown_true at line 146: .input_keyDown_true
+Info: Found new label .input_keyUp at line 155: .input_keyUp
+Info: Found new label .input_keyUp_true at line 162: .input_keyUp_true
+Info: Found new label .input_keyDown_current at line 166: .input_keyDown_current
+Info: Found new label .input_keyDown_previous at line 171: .input_keyDown_previous
+Info: Found new label .input_keyUp_current at line 176: .input_keyUp_current
+Info: Found new label .input_keyUp_previous at line 181: .input_keyUp_previous
+Info: Found new label .input_CSB at line 188: .input_CSB      ; current state buffer
+Info: Found new label .input_PSB at line 191: .input_PSB      ; previous state buffer
+Info: Found new label .input_timings at line 194: .input_timings  ; milliseconds pressed (for future implementation)
+Info: Found new label .Palette16_lost_century at line 202: .Palette16_lost_century
+Info: Found new label .Palette16_fantasy_kitchen at line 207: .Palette16_fantasy_kitchen
+Info: Found new label .Palette16_steam_lords at line 212: .Palette16_steam_lords
+Info: Found new label .Palette16_bubblegum at line 217: .Palette16_bubblegum
+Info: Found new label .Palette16_fading at line 222: .Palette16_fading
+Info: Found new label .Palette16_microsoft_windows at line 227: .Palette16_microsoft_windows
+Info: Found new label .Palette16_commodore_64 at line 232: .Palette16_commodore_64
+Info: Found new label .Palette16_sweetie at line 237: .Palette16_sweetie
+Info: Found new label .Palette_swordp at line 242: .Palette_swordp
+Info: Found new label .InitVideo at line 249: .InitVideo
+Info: Found new label .SetPalettes at line 257: .SetPalettes
+Info: Found new label .HandleMouseDraw at line 288: .HandleMouseDraw
+Info: Found new label .draw_pixel_exit at line 308: .draw_pixel_exit
+Info: Found new label .ClearScreen at line 314: .ClearScreen
+Info: Found new label .VideoPage1Pointer at line 321: .VideoPage1Pointer
+Info: Found new label .VideoPage2Pointer at line 324: .VideoPage2Pointer
+Info: Found new label .PointVideoOffset at line 327: .PointVideoOffset
+Info: Total program length is 1093 bytes out of which 524 bytes represent actual code and 569 bytes represent #DB data.

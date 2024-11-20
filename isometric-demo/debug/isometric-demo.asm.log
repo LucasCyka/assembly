@@ -1,0 +1,51 @@
+Info: #include Data/filesystem/programs/isometric-demo/includes/keyboard.asm succesfully added.
+Info: #include Data/filesystem/programs/isometric-demo/includes/gfx.asm succesfully added.
+Info: #include Data/filesystem/programs/isometric-demo/includes/clock.asm succesfully added.
+Info: #include Data/filesystem/programs/isometric-demo/includes/utils.asm succesfully added.
+Info: #include Data/filesystem/programs/isometric-demo/includes/data.asm succesfully added.
+Info: Found 499 lines to compile.
+Info: Found new label .Repeat at line 22: .Repeat                             ; Main loop
+Info: Found new label .Redraw at line 37: .Redraw
+Info: Found new label .InputUpdate at line 58: .InputUpdate
+Info: Found new label .InputKeyPressed at line 77: .InputKeyPressed
+Info: Found new label .InputKeyReleased at line 98: .InputKeyReleased
+Info: Found new label .InputNoStateChange at line 118: .InputNoStateChange
+Info: Found new label .input_no_state_change_loop at line 124: .input_no_state_change_loop
+Info: Found new label .input_no_state_change_false at line 133: .input_no_state_change_false
+Info: Found new label .input_no_state_changed_true at line 138: .input_no_state_changed_true
+Info: Found new label .input_keyDown at line 146: .input_keyDown              
+Info: Found new label .input_keyDown_next at line 150: .input_keyDown_next
+Info: Found new label .input_keyDown_true at line 162: .input_keyDown_true
+Info: Found new label .input_keyUp at line 171: .input_keyUp
+Info: Found new label .input_keyUp_true at line 178: .input_keyUp_true
+Info: Found new label .input_keyDown_current at line 182: .input_keyDown_current
+Info: Found new label .input_keyDown_previous at line 187: .input_keyDown_previous
+Info: Found new label .input_keyUp_current at line 192: .input_keyUp_current
+Info: Found new label .input_keyUp_previous at line 197: .input_keyUp_previous
+Info: Found new label .input_CSB at line 204: .input_CSB      ; current state buffer
+Info: Found new label .input_PSB at line 207: .input_PSB      ; previous state buffer
+Info: Found new label .input_timings at line 210: .input_timings  ; milliseconds pressed (for future implementation)
+Info: Found new label .InitializeGFX at line 215: .InitializeGFX
+Info: Found new label .SetVideoAutoControlMode at line 278: .SetVideoAutoControlMode
+Info: Found new label .DrawScene at line 287: .DrawScene
+Info: Found new label .NextY at line 289: .NextY
+Info: Found new label .NextX at line 291: .NextX
+Info: Found new label .DrawSpriteIndex at line 311: .DrawSpriteIndex
+Info: Found new label .ClearActivePage at line 372: .ClearActivePage
+Info: Found new label .zOffset at line 384: .zOffset
+Info: Found new label .TerrainLayout at line 391: .TerrainLayout
+Info: Found new label .InitializeClock at line 403: .InitializeClock
+Info: Found new label .HasUpdateTimePassed at line 412: .HasUpdateTimePassed
+Info: Found new label .updateClockTick at line 427: .updateClockTick
+Info: Found new label .TargetFrameTime at line 436: .TargetFrameTime
+Info: Found new label .ClockTimeMs at line 440: .ClockTimeMs
+Info: Found new label .ClockTimeMsPrevious at line 442: .ClockTimeMsPrevious
+Info: Found new label .GetOscillation at line 460: .GetOscillation
+Info: Found new label .oscillationDecremental at line 465: .oscillationDecremental
+Info: Found new label .PathTilesA at line 481: .PathTilesA
+Info: Found new label .PathTilesB at line 484: .PathTilesB
+Info: Found new label .PathBackground at line 487: .PathBackground
+Info: Found new label .TilesAData at line 490: .TilesAData
+Info: Found new label .TilesBData at line 493: .TilesBData
+Info: Found new label .Layer0Palette at line 496: .Layer0Palette
+Info: Total program length is 13512 bytes out of which 859 bytes represent actual code and 12653 bytes represent #DB data.

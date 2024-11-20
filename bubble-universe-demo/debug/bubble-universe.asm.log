@@ -1,0 +1,34 @@
+Info: #include Data/filesystem/programs/bubble-universe-demo/../../lib/c93-keyboard.asm succesfully added.
+Info: Found 318 lines to compile.
+Info: Found new label .Repeat at line 22: .Repeat
+Info: Found new label .no_key_input at line 34: .no_key_input
+Info: Found new label .Outer at line 39: .Outer
+Info: Found new label .Inner at line 41: .Inner
+Info: Found new label .Plot at line 86: .Plot
+Info: Found new label .Color at line 103: .Color
+Info: Found new label .ClearScreen at line 106: .ClearScreen
+Info: Found new label .GeneratePalette at line 115: .GeneratePalette
+Info: Found new label .NextColor at line 122: .NextColor
+Info: Found new label .exit at line 142: .exit
+Info: Found new label .InputUpdate at line 157: .InputUpdate
+Info: Found new label .InputKeyPressed at line 176: .InputKeyPressed
+Info: Found new label .input_keyPressed_true at line 193: .input_keyPressed_true
+Info: Found new label .InputKeyReleased at line 200: .InputKeyReleased
+Info: Found new label .input_keyReleased_true at line 215: .input_keyReleased_true
+Info: Found new label .InputNoStateChange at line 223: .InputNoStateChange
+Info: Found new label .input_no_state_change_loop at line 229: .input_no_state_change_loop
+Info: Found new label .input_no_state_change_false at line 238: .input_no_state_change_false
+Info: Found new label .input_no_state_changed_true at line 243: .input_no_state_changed_true
+Info: Found new label .input_keyDown at line 251: .input_keyDown              
+Info: Found new label .input_keyDown_next at line 255: .input_keyDown_next
+Info: Found new label .input_keyDown_true at line 267: .input_keyDown_true
+Info: Found new label .input_keyUp at line 276: .input_keyUp
+Info: Found new label .input_keyUp_true at line 283: .input_keyUp_true
+Info: Found new label .input_keyDown_current at line 287: .input_keyDown_current
+Info: Found new label .input_keyDown_previous at line 292: .input_keyDown_previous
+Info: Found new label .input_keyUp_current at line 297: .input_keyUp_current
+Info: Found new label .input_keyUp_previous at line 302: .input_keyUp_previous
+Info: Found new label .input_CSB at line 309: .input_CSB      ; current state buffer
+Info: Found new label .input_PSB at line 312: .input_PSB      ; previous state buffer
+Info: Found new label .input_timings at line 315: .input_timings  ; milliseconds pressed (for future implementation)
+Info: Total program length is 839 bytes out of which 710 bytes represent actual code and 129 bytes represent #DB data.
