@@ -1,5 +1,4 @@
-Info: Found 19 lines to compile.
+Info: Found 38 lines to compile.
 Info: Found new label .BEGIN at line 3: .BEGIN
-Info: Found new label .ESC_PRESSED at line 11: .ESC_PRESSED
-Warning: Unknown argument format LD nnn,nnn at line 9. Found this: 'LD 32,0x00F42400'
-Info: Total program length is 23 bytes out of which 23 bytes represent actual code and 0 bytes represent #DB data.
+Info: Found new label .ESC_PRESSED at line 30: .ESC_PRESSED
+Info: Total program length is 78 bytes out of which 78 bytes represent actual code and 0 bytes represent #DB data.
