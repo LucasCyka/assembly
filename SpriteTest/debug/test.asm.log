@@ -1,0 +1,8 @@
+Info: Found 67 lines to compile.
+Info: Found new label .LOAD at line 2: .LOAD 
+Info: Found new label .BEGIN at line 38: .BEGIN
+Info: Found new label .QUIT at line 57: .QUIT
+Info: Found new label .Sprite at line 60: .Sprite
+Info: Found new label .Pall0Address at line 63: .Pall0Address ;pointer pallete 0 address
+Info: Found new label .Sprite1Data at line 65: .Sprite1Data
+Info: Total program length is 1227 bytes out of which 160 bytes represent actual code and 1067 bytes represent #DB data.

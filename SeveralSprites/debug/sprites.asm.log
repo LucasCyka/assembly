@@ -1,0 +1,22 @@
+Info: Found 231 lines to compile.
+Info: Found new label .Begin at line 2: .Begin
+Info: Found new label .Loop at line 9: .Loop
+Info: Found new label .CheckBtn at line 23: .CheckBtn
+Info: Found new label .LoadSprites at line 29: .LoadSprites
+Info: Found new label .DrawSprites at line 60: .DrawSprites
+Info: Found new label .ClearPages at line 101: .ClearPages
+Info: Found new label .LoadPalette at line 132: .LoadPalette
+Info: Found new label .GetPalleteAddresses at line 166: .GetPalleteAddresses
+Info: Found new label .Exit at line 195: .Exit
+Info: Found new label .PalleteFile at line 198: .PalleteFile
+Info: Found new label .Sprite1File at line 201: .Sprite1File
+Info: Found new label .Sprite2File at line 204: .Sprite2File
+Info: Found new label .Sprite3File at line 207: .Sprite3File
+Info: Found new label .PalleteData at line 211: .PalleteData 
+Info: Found new label .Sprite1Data at line 214: .Sprite1Data
+Info: Found new label .Sprite2Data at line 217: .Sprite2Data
+Info: Found new label .Sprite3Data at line 220: .Sprite3Data
+Info: Found new label .Pallete0Address at line 223: .Pallete0Address
+Info: Found new label .Pallete1Address at line 226: .Pallete1Address
+Info: Found new label .Pallete2Address at line 229: .Pallete2Address
+Info: Total program length is 5745 bytes out of which 450 bytes represent actual code and 5295 bytes represent #DB data.
